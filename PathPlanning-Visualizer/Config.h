@@ -9,7 +9,6 @@
 #include <map>
 #include <chrono>
 #include <thread>
-#include <string>
 
 using namespace std;
 using namespace cv;
