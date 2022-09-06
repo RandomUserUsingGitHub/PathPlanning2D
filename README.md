@@ -16,9 +16,9 @@ In general, the a* algorithm is considered more efficient than ucs and greedy al
 
 a* mode . . . . . . . . . . . . . . press **1**\
 ucs mode . . . . . . . . . . . . . press **2**\
-greedy mode . . . . . . . . . .press **3**\
-remove walls . . . . . . . . . .press **w**\
-allow  diagonal . . . . . . . . .press **d**\
+greedy mode . . . . . . . . . . press **3**\
+remove walls . . . . . . . . . . press **w**\
+allow  diagonal . . . . . . . . . press **d**\
 exit the app . . . . . . . . . . . press **q**
 
 
