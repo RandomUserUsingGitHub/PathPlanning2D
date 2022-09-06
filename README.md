@@ -11,8 +11,7 @@ In general, the a* algorithm is considered more efficient than ucs and greedy al
 
 
 ## Options
-
-![Alt Text](https://i.ibb.co/qsGsCQp/Screenshot-from-2022-09-06-12-01-44.png)
+<a href="https://freeimage.host/"><img src="https://iili.io/6jILue.png" alt="6jILue.png" border="0"></a>
 
 a* mode . . . . . . . . . . . . . . press **1**\
 ucs mode . . . . . . . . . . . . . press **2**\
