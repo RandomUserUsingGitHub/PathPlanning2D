@@ -35,5 +35,5 @@ Insert gif or link to demo
 * [**openCv**](https://github.com/RandomUserUsingGitHub/PathPlanning2D/blob/develop/PathPlanning-Visualizer/build_requirement.md)
 ## Build
 
-To compile and build the code, just put ```make``` into the terminal and press enter.
+To compile and build the code, just put ```make``` in the terminal and press enter.
 To clean it up, just type ```make clean``` and you are good to go.
