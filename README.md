@@ -25,9 +25,6 @@ exit the app -  - - - - - - - - -> press **q**
 * Total time taken by the execution of the selected algorithm gets calculated
 * You can also set the output ratio and size from the code on Visual.h
 
-## Code execution output
-
-## Demo
 
 Insert gif or link to demo
 
