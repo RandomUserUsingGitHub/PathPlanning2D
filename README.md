@@ -15,12 +15,28 @@ In general, the a* algorithm is considered more efficient than ucs and greedy al
 
 a* mode - - - - - - - - - - - - -> press **1**\
 ucs mode - - - - - - - - - - - -> press **2**\
-greedy mode  - - - - - - - - -> press **3**\
-remove walls  - - - - - - - - -> press **w**\
-allow  diagonal  - - - - - - - -> press **d**\
-exit the app  - - - - - - - - - -> press **q**
+greedy mode - - - - - - - - -> press **3**\
+remove walls - - - - - - - - -> press **w**\
+allow  diagonal - - - - - - - -> press **d**\
+exit the app -  - - - - - - - - -> press **q**
 
 
 * Total length from agent to goal, gets calculated (only if there is a possible route)
 * Total time taken by the execution of the selected algorithm gets calculated
 * You can also set the output ratio and size from the code on Visual.h
+
+## Code execution output
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Requirements
+
+* [**g++**](https://linuxhint.com/install-and-use-g-on-ubuntu/)
+* [**openCv**](https://github.com/RandomUserUsingGitHub/PathPlanning2D/blob/develop/PathPlanning-Visualizer/build_requirement.md)
+## Build
+
+To compile and build the code, just put ```make``` into the terminal and press enter.
+To clean it up, just type ```make clean``` and you are good to go.
