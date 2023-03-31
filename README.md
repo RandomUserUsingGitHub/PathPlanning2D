@@ -26,8 +26,6 @@ exit the app -  - - - - - - - - -> press **q**
 * You can also set the output ratio and size from the code on Visual.h
 
 
-Insert gif or link to demo
-
 
 ## Requirements
 
